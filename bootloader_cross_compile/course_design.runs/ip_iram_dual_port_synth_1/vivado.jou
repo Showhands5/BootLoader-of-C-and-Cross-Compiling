@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Dec  7 14:31:04 2019
+# Process ID: 10656
+# Current directory: C:/Users/95223/Desktop/course_design/course_design.runs/ip_iram_dual_port_synth_1
+# Command line: vivado.exe -log ip_iram_dual_port.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ip_iram_dual_port.tcl
+# Log file: C:/Users/95223/Desktop/course_design/course_design.runs/ip_iram_dual_port_synth_1/ip_iram_dual_port.vds
+# Journal file: C:/Users/95223/Desktop/course_design/course_design.runs/ip_iram_dual_port_synth_1\vivado.jou
+#-----------------------------------------------------------
+source ip_iram_dual_port.tcl -notrace

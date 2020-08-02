@@ -1,0 +1,71 @@
+# //  ModelSim SE-64 10.7 Dec  7 2017
+# //
+# //  Copyright 1991-2017 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do {openmips_min_sopc_tb_simulate.do}
+# vsim -voptargs=""+acc"" -L dist_mem_gen_v8_0_13 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm -lib xil_defaultlib xil_defaultlib.openmips_min_sopc_tb xil_defaultlib.glbl 
+# Start time: 00:02:36 on Dec 12,2019
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v(103): (vopt-2685) [TFMPC] - Too few port connections for 'openmips_min_sopc0'.  Expected 10, found 3.
+# ** Warning: ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v(103): (vopt-2718) [TFMPC] - Missing connection for port 'SD_datain'.
+# ** Warning: ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v(103): (vopt-2718) [TFMPC] - Missing connection for port 'SD_cs'.
+# ** Warning: ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v(103): (vopt-2718) [TFMPC] - Missing connection for port 'SD_clk'.
+# ** Warning: ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v(103): (vopt-2718) [TFMPC] - Missing connection for port 'led'.
+# ** Warning: ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v(103): (vopt-2718) [TFMPC] - Missing connection for port 'o_sel'.
+# ** Warning: ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v(103): (vopt-2718) [TFMPC] - Missing connection for port 'o_seg'.
+# ** Warning: ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v(103): (vopt-2718) [TFMPC] - Missing connection for port 'sw'.
+# ** Note: (vopt-143) Recognized 1 FSM in module "div(fast)".
+# Loading work.openmips_min_sopc_tb(fast)
+# Loading work.openmips_min_sopc(fast)
+# Loading work.clk_wiz_1(fast)
+# Loading work.clk_wiz_1_clk_wiz(fast)
+# Loading unisims_ver.IBUF(fast)
+# Loading unisims_ver.MMCME2_ADV(fast)
+# Loading unisims_ver.BUFG(fast)
+# Loading work.openmips(fast)
+# Loading work.pc_reg(fast)
+# Loading work.if_id(fast)
+# Loading work.id(fast)
+# Loading work.regfile(fast)
+# Loading work.id_ex(fast)
+# Loading work.ex(fast)
+# Loading work.ex_mem(fast)
+# Loading work.mem(fast)
+# Loading work.mem_wb(fast)
+# Loading work.hilo_reg(fast)
+# Loading work.ctrl(fast)
+# Loading work.div(fast)
+# Loading work.LLbit_reg(fast)
+# Loading work.cp0_reg(fast)
+# Loading work.imem_ip(fast)
+# Loading dist_mem_gen_v8_0_13.dist_mem_gen_v8_0_13(fast)
+# Loading work.ip_iram_dual_port(fast)
+# Loading dist_mem_gen_v8_0_13.dist_mem_gen_v8_0_13(fast__1)
+# Loading work.data_ram(fast)
+# Loading work.SD_soft(fast)
+# Loading work.seg7(fast)
+# Loading work.seg7x16(fast)
+# Loading work.glbl(fast)
+# ** Warning: (vsim-3015) ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc.v(195): [PCDPC] - Port size (11) does not match connection size (32) for port 'a'. The port definition is at: ../../../../course_design.srcs/sources_1/ip/ip_iram_dual_port/sim/ip_iram_dual_port.v(57).
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/U_imem_ram File: ../../../../course_design.srcs/sources_1/ip/ip_iram_dual_port/sim/ip_iram_dual_port.v
+# 1
+# 1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+# ** Warning: (vsim-PLI-3408) Too few data words read on line 572 of file "imem_ip.mif". Expected 1024, found 571.    : C:/Xilinx/Vivado/2019.1/data/ip/xilinx/dist_mem_gen_v8_0/simulation/dist_mem_gen_v8_0.v(234)
+#    Time: 0 ps  Iteration: 0  Instance: /openmips_min_sopc_tb/openmips_min_sopc0/U_imem_rom/inst
+# WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+# Warning: [Unisim MMCME2_ADV-20] Input CLKIN1 period and attribute CLKIN1_PERIOD are not same. Instance openmips_min_sopc_tb.openmips_min_sopc0.U_clk_div.inst.mmcm_adv_inst 
+# End time: 00:03:44 on Dec 12,2019, Elapsed time: 0:01:08
+# Errors: 0, Warnings: 10

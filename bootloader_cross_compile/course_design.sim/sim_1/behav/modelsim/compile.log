@@ -1,0 +1,50 @@
+# do {openmips_min_sopc_tb_compile.do}
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/work".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim".
+# ** Warning: (vlib-34) Library already exists at "modelsim_lib/msim/xil_defaultlib".
+# Model Technology ModelSim SE-64 vmap 10.7 Lib Mapping Utility 2017.12 Dec  7 2017
+# vmap xil_defaultlib modelsim_lib/msim/xil_defaultlib 
+# Modifying modelsim.ini
+# ** Warning: (vlog-159) Mode option -64 is not supported in this context and will be ignored.
+# Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+# Start time: 00:02:22 on Dec 12,2019
+# vlog -64 -incr -work xil_defaultlib "+incdir+../../../../course_design.srcs/sources_1/new/ddr_module" "+incdir+../../../../course_design.srcs/sources_1/ip/clk_wiz_1" ../../../../course_design.srcs/sources_1/ip/ip_iram_dual_port/sim/ip_iram_dual_port.v ../../../../course_design.srcs/sources_1/ip/imem_ip/sim/imem_ip.v ../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1_clk_wiz.v ../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/LLbit_reg.v ../../../../course_design.srcs/sources_1/new/SD_soft.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/cp0_reg.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ctrl.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/data_ram.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/div.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex_mem.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/hilo_reg.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id_ex.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/if_id.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem_wb.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/pc_reg.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/regfile.v ../../../../course_design.srcs/sources_1/new/seg7.v ../../../../course_design.srcs/sources_1/new/seg7x16.v ../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v 
+# -- Compiling module ip_iram_dual_port
+# -- Compiling module imem_ip
+# -- Compiling module clk_wiz_1_clk_wiz
+# -- Compiling module clk_wiz_1
+# -- Compiling module LLbit_reg
+# -- Compiling module SD_soft
+# -- Compiling module cp0_reg
+# -- Compiling module ctrl
+# -- Compiling module data_ram
+# -- Compiling module div
+# -- Compiling module ex
+# -- Compiling module ex_mem
+# -- Compiling module hilo_reg
+# -- Compiling module id
+# -- Compiling module id_ex
+# -- Compiling module if_id
+# -- Compiling module mem
+# -- Compiling module mem_wb
+# -- Compiling module openmips
+# -- Compiling module openmips_min_sopc
+# -- Compiling module pc_reg
+# -- Compiling module regfile
+# -- Compiling module seg7
+# -- Compiling module seg7x16
+# -- Compiling module openmips_min_sopc_tb
+# 
+# Top level modules:
+# 	openmips_min_sopc_tb
+# End time: 00:02:22 on Dec 12,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 1
+# Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+# Start time: 00:02:22 on Dec 12,2019
+# vlog -work xil_defaultlib glbl.v 
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# End time: 00:02:22 on Dec 12,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

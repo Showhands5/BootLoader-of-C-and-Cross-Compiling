@@ -1,0 +1,826 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/95223/Desktop/course_design/course_design.sim/sim_1/behav/modelsim
+T_opt
+!s110 1575692411
+VOcnAz[5H0B2[4^VScd:jN1
+Z1 04 20 4 work openmips_min_sopc_tb fast 0
+Z2 04 4 4 work glbl fast 0
+=1-54e1ad50e5c3-5deb287b-132-1ed4
+o-quiet -auto_acc_if_foreign -work xil_defaultlib -L blk_mem_gen_v8_4_3 -L xil_defaultlib -L dist_mem_gen_v8_0_13 -L unisims_ver -L unimacro_ver -L secureip -L xpm +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.7;67
+R0
+vblk_mem_gen_0
+!s10a 1575293694
+Z5 !s110 1575691595
+!i10b 1
+!s100 ^`iVmSa3foXMNe^LWKk<C2
+IooU=7UhX^a_=MPN^kMTQ52
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1575293694
+8../../../../course_design.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v
+F../../../../course_design.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v
+Z7 L0 56
+Z8 OL;L;10.7;67
+r1
+!s85 0
+31
+Z9 !s108 1575691595.000000
+Z10 !s107 ..\..\..\..\course_design.srcs\sources_1\new\complete_inst_cpu\defines.v|..\..\..\..\course_design.srcs\sources_1\new\headfile.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v|../../../../course_design.srcs/sources_1/new/seg7x16.v|../../../../course_design.srcs/sources_1/new/sd_card_modules/sd_read.v|../../../../course_design.srcs/sources_1/new/sd_card_modules/sd_init.v|../../../../course_design.srcs/sources_1/new/sd_card_driver.v|../../../../course_design.srcs/sources_1/new/sccomp_dataflow.v|../../../../course_design.srcs/sources_1/new/regfile.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/pc_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem_wb.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/if_id.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id_ex.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id.v|../../../../course_design.srcs/sources_1/new/hilo_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex_mem.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/div.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ctrl.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/cp0_reg.v|../../../../course_design.srcs/sources_1/new/clk_div.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/LLbit_reg.v|../../../../course_design.srcs/sources_1/new/Dmem.v|../../../../course_design.srcs/sources_1/new/DMA_controler.v|../../../../course_design.srcs/sources_1/ip/clk_mmcm/clk_mmcm.v|../../../../course_design.srcs/sources_1/ip/clk_mmcm/clk_mmcm_clk_wiz.v|../../../../course_design.srcs/sources_1/ip/imem_ip/sim/imem_ip.v|../../../../course_design.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v|
+Z11 !s90 -64|-incr|-work|xil_defaultlib|+incdir+../../../../course_design.srcs/sources_1/new/ddr_module|+incdir+../../../../course_design.srcs/sources_1/ip/clk_mmcm|+incdir+../../../../course_design.srcs/sources_1/ip/clk_wiz_0|../../../../course_design.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v|../../../../course_design.srcs/sources_1/ip/imem_ip/sim/imem_ip.v|../../../../course_design.srcs/sources_1/ip/clk_mmcm/clk_mmcm_clk_wiz.v|../../../../course_design.srcs/sources_1/ip/clk_mmcm/clk_mmcm.v|../../../../course_design.srcs/sources_1/new/DMA_controler.v|../../../../course_design.srcs/sources_1/new/Dmem.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/LLbit_reg.v|../../../../course_design.srcs/sources_1/new/clk_div.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/cp0_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ctrl.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/div.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex_mem.v|../../../../course_design.srcs/sources_1/new/hilo_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id_ex.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/if_id.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem_wb.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/pc_reg.v|../../../../course_design.srcs/sources_1/new/regfile.v|../../../../course_design.srcs/sources_1/new/sccomp_dataflow.v|../../../../course_design.srcs/sources_1/new/sd_card_driver.v|../../../../course_design.srcs/sources_1/new/sd_card_modules/sd_init.v|../../../../course_design.srcs/sources_1/new/sd_card_modules/sd_read.v|../../../../course_design.srcs/sources_1/new/seg7x16.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v|
+!i113 0
+Z12 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z13 !s92 -work xil_defaultlib +incdir+../../../../course_design.srcs/sources_1/new/ddr_module +incdir+../../../../course_design.srcs/sources_1/ip/clk_mmcm +incdir+../../../../course_design.srcs/sources_1/ip/clk_wiz_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vclk_div
+!s10a 1555515959
+!s110 1575691596
+!i10b 1
+!s100 C_V=7^2aT2Y9c0FgTz<1i2
+IAL_k;3RC7IU3PNVTnD22^0
+R6
+R0
+w1555515959
+8../../../../course_design.srcs/sources_1/new/clk_div.v
+F../../../../course_design.srcs/sources_1/new/clk_div.v
+Z14 L0 23
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+vclk_mmcm
+Z15 !s10a 1575291728
+R5
+!i10b 1
+!s100 BeWgNRIR9MDkc=l8`30dQ2
+IQGh13zo4U`d8CQSaBFj;Z2
+R6
+R0
+Z16 w1575291728
+8../../../../course_design.srcs/sources_1/ip/clk_mmcm/clk_mmcm.v
+F../../../../course_design.srcs/sources_1/ip/clk_mmcm/clk_mmcm.v
+L0 72
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+vclk_mmcm_clk_wiz
+R15
+R5
+!i10b 1
+!s100 3SFC>E=LjJFO_h6gC_BSl0
+IUmRRDS<;U?dl`jVGRNQa11
+R6
+R0
+R16
+8../../../../course_design.srcs/sources_1/ip/clk_mmcm/clk_mmcm_clk_wiz.v
+F../../../../course_design.srcs/sources_1/ip/clk_mmcm/clk_mmcm_clk_wiz.v
+L0 70
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+vclk_wiz_1
+Z17 !s110 1576080142
+!i10b 1
+!s100 diN_T0m3IbJPYmezX4`7J3
+Io[3FZOWMi[XK2UeT7`hoJ1
+R6
+R0
+Z18 w1575813473
+8../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1.v
+F../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1.v
+L0 71
+R8
+r1
+!s85 0
+31
+Z19 !s108 1576080142.000000
+Z20 !s107 ..\..\..\..\course_design.srcs\sources_1\new\complete_inst_cpu\defines.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v|../../../../course_design.srcs/sources_1/new/seg7x16.v|../../../../course_design.srcs/sources_1/new/seg7.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/regfile.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/pc_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem_wb.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/if_id.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id_ex.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/hilo_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex_mem.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/div.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/data_ram.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ctrl.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/cp0_reg.v|../../../../course_design.srcs/sources_1/new/SD_soft.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/LLbit_reg.v|../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1.v|../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1_clk_wiz.v|../../../../course_design.srcs/sources_1/ip/imem_ip/sim/imem_ip.v|../../../../course_design.srcs/sources_1/ip/ip_iram_dual_port/sim/ip_iram_dual_port.v|
+Z21 !s90 -64|-incr|-work|xil_defaultlib|+incdir+../../../../course_design.srcs/sources_1/new/ddr_module|+incdir+../../../../course_design.srcs/sources_1/ip/clk_wiz_1|../../../../course_design.srcs/sources_1/ip/ip_iram_dual_port/sim/ip_iram_dual_port.v|../../../../course_design.srcs/sources_1/ip/imem_ip/sim/imem_ip.v|../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1_clk_wiz.v|../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/LLbit_reg.v|../../../../course_design.srcs/sources_1/new/SD_soft.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/cp0_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ctrl.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/data_ram.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/div.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex_mem.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/hilo_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id_ex.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/if_id.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem_wb.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/pc_reg.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/regfile.v|../../../../course_design.srcs/sources_1/new/seg7.v|../../../../course_design.srcs/sources_1/new/seg7x16.v|../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v|
+!i113 0
+R12
+Z22 !s92 -work xil_defaultlib +incdir+../../../../course_design.srcs/sources_1/new/ddr_module +incdir+../../../../course_design.srcs/sources_1/ip/clk_wiz_1 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vclk_wiz_1_clk_wiz
+R17
+!i10b 1
+!s100 ehOIT``9N19MK?[8gOPZe2
+IAmg?8=kPQXY1j_MaR`Y^Z1
+R6
+R0
+R18
+8../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1_clk_wiz.v
+F../../../../course_design.srcs/sources_1/ip/clk_wiz_1/clk_wiz_1_clk_wiz.v
+L0 69
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vcp0_reg
+R17
+!i10b 1
+!s100 A2YKOh:9ehe[YWPSEzT>e1
+I1R4jgJcWQd0AeOkcfzbZZ2
+R6
+R0
+w1575639058
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/cp0_reg.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/cp0_reg.v
+Z23 L0 36
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vctrl
+R17
+!i10b 1
+!s100 _<>fegg;OWnW:@z66JmNR3
+IF^I<`UX1@ZOW7MXK0gAcA0
+R6
+R0
+Z24 w1575206801
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ctrl.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ctrl.v
+Z25 L0 35
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vdata_ram
+R17
+!i10b 1
+!s100 hHnbQ`_UhIF8k[1QfW8PE1
+I:4@0F`nC`Z0PTZmzPhLP:0
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/data_ram.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/data_ram.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vdiv
+R17
+!i10b 1
+!s100 ]SIc?:mJI[BTSZ<jTI=Q^0
+I1oc_ELVlLLGH6YohYAI5Y0
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/div.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/div.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vDMA_controler
+!s10a 1563263185
+R5
+!i10b 1
+!s100 :QUQZ`gCB:VWizio46DM_2
+IoSL9dSRE8>n`6P]^K`7<@1
+R6
+R0
+w1563263185
+8../../../../course_design.srcs/sources_1/new/DMA_controler.v
+F../../../../course_design.srcs/sources_1/new/DMA_controler.v
+L0 26
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+n@d@m@a_controler
+vDmem
+!s10a 1558422709
+R5
+!i10b 1
+!s100 `^7=MFbcA=bAla[@0a]Zm2
+INMSM7dIJGLMHN]mO[hYle1
+R6
+R0
+w1558422709
+8../../../../course_design.srcs/sources_1/new/Dmem.v
+F../../../../course_design.srcs/sources_1/new/Dmem.v
+R14
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+n@dmem
+vex
+R17
+!i10b 1
+!s100 kH3A?K=6TjA:InVJ>3:Lj0
+IcM1dE78PN_:lO53^k3jfR3
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vex_mem
+R17
+!i10b 1
+!s100 0;RAzg4YndO=S8CK8:dZJ0
+Ij0f99Yi?X;l8;kzNDMcG[1
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex_mem.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/ex_mem.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vglbl
+R17
+!i10b 1
+!s100 7cd<?T0KPANS9PBoRj:BY2
+INdU5f[;Bb^Y=SUnL>A9=o3
+R6
+R0
+w1558713910
+8glbl.v
+Fglbl.v
+L0 6
+R8
+r1
+!s85 0
+31
+R19
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 0
+R12
+R3
+vhilo_reg
+R17
+!i10b 1
+!s100 XdnTQEF3zg^>?K`?>@E203
+ILa40aRLM<6<]<=1m6?EB82
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/hilo_reg.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/hilo_reg.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vid
+R17
+!i10b 1
+!s100 TnlhbE4P28aXHkK_ebbQ33
+I5HWOPO?F7Xbj2LJV`O<H?1
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vid_ex
+R17
+!i10b 1
+!s100 4cb8k[eDbE_MBTf1INJhe3
+I]nFk1KPFT@A6IJCg7[W`@1
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id_ex.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/id_ex.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vif_id
+R17
+!i10b 1
+!s100 TfDI`CPh`I[8IoBYPY^R]3
+IJFMSNIJZJ38e6Wj5<11Y32
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/if_id.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/if_id.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vimem_ip
+R17
+!i10b 1
+!s100 6Lfb@bPCOO>da@J`F2Og02
+I735O<Z<m3Di06koiM?T213
+R6
+R0
+w1576059596
+8../../../../course_design.srcs/sources_1/ip/imem_ip/sim/imem_ip.v
+F../../../../course_design.srcs/sources_1/ip/imem_ip/sim/imem_ip.v
+R7
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vip_iram_dual_port
+R17
+!i10b 1
+!s100 mf75R8]HY7D_B^Fa8e_>Q1
+I`O@2NnUj``?dEL=TSRhg_2
+R6
+R0
+w1575700254
+8../../../../course_design.srcs/sources_1/ip/ip_iram_dual_port/sim/ip_iram_dual_port.v
+F../../../../course_design.srcs/sources_1/ip/ip_iram_dual_port/sim/ip_iram_dual_port.v
+R7
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vLLbit_reg
+R17
+!i10b 1
+!s100 ;ZOcZ;j`7HBEGQRFWLQ580
+I3OkYMo7]_aWV2eL>3B]o22
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/LLbit_reg.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/LLbit_reg.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+n@l@lbit_reg
+vmem
+R17
+!i10b 1
+!s100 LcQUb==AEdNT72f;o5hml0
+I4>3YjeA4J;[?P>9dNBb]h3
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vmem_wb
+R17
+!i10b 1
+!s100 HHhY[QLc0mLUMY8K6b:SG3
+IEU0bU:RIOX8b^lHQ8>KE[2
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem_wb.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/mem_wb.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vopenmips
+R17
+!i10b 1
+!s100 H]c_41J<[IC]hI5FMcWAH0
+I6hVMDhK;HgXCl7hzP=mz^0
+R6
+R0
+w1575639852
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vopenmips_min_sopc
+R17
+!i10b 1
+!s100 CF8?oLYm>[kk8]im5Q>1j2
+IjFSOQD4GU:k;D<BE]WmZ^0
+R6
+R0
+w1576077186
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc.v
+L0 6
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vopenmips_min_sopc_tb
+R17
+!i10b 1
+!s100 c:W_1Y>oWWge6?Qhfg[h[0
+IeYAncoPe7_[=Kdb`jFL4U1
+R6
+R0
+w1575791647
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/openmips_min_sopc_tb.v
+R23
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vpc_reg
+R17
+!i10b 1
+!s100 95Z369T_J;b;7D<ZF4az<2
+IkGP5O=aP3H6glWX1h0P_@3
+R6
+R0
+R24
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/pc_reg.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/pc_reg.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vregfile
+R17
+!i10b 1
+!s100 ``4aed8bc97cKIjidWnFY2
+IdK[3B[Rk;^9fOGPogQm7O0
+R6
+R0
+w1575209166
+8../../../../course_design.srcs/sources_1/new/complete_inst_cpu/regfile.v
+F../../../../course_design.srcs/sources_1/new/complete_inst_cpu/regfile.v
+R25
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vsccomp_dataflow
+!s10a 1575686652
+Z26 !s110 1575691608
+!i10b 1
+!s100 UP8LbU9;^A<`cdWSdY[De3
+IEO<M7AYg:1FEUUOQ0X5]Z0
+R6
+R0
+w1575686652
+8../../../../course_design.srcs/sources_1/new/sccomp_dataflow.v
+F../../../../course_design.srcs/sources_1/new/sccomp_dataflow.v
+L0 248
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+vsd_card_driver
+!s10a 1575379950
+R26
+!i10b 1
+!s100 d3C0IT`D4AML=XZ8mU4?E3
+IRS[o@Lff@kPj8R<EjS5WZ3
+R6
+R0
+w1575379950
+8../../../../course_design.srcs/sources_1/new/sd_card_driver.v
+F../../../../course_design.srcs/sources_1/new/sd_card_driver.v
+R14
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+vsd_init
+!s10a 1563283393
+R26
+!i10b 1
+!s100 BOR4a9TM^<oHQVPJ8iXoz3
+IzC<XB41MCnZ5cV9fWOVNW0
+R6
+R0
+w1563283393
+8../../../../course_design.srcs/sources_1/new/sd_card_modules/sd_init.v
+F../../../../course_design.srcs/sources_1/new/sd_card_modules/sd_init.v
+L0 22
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+vsd_read
+!s10a 1563289106
+R26
+!i10b 1
+!s100 :cc4`VhE68IZijPBO^MG<2
+IB8<CIhmEP`EYe:P;Ojf9a2
+R6
+R0
+w1563289106
+8../../../../course_design.srcs/sources_1/new/sd_card_modules/sd_read.v
+F../../../../course_design.srcs/sources_1/new/sd_card_modules/sd_read.v
+R14
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 0
+R12
+R13
+R3
+vSD_soft
+R17
+!i10b 1
+!s100 DXjV]ESVnLzM5=dYFHdSa2
+I7oVc9TBg:BX:_[NBzF3>B3
+R6
+R0
+w1575947279
+8../../../../course_design.srcs/sources_1/new/SD_soft.v
+F../../../../course_design.srcs/sources_1/new/SD_soft.v
+R14
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+n@s@d_soft
+vseg7
+R17
+!i10b 1
+!s100 DZWn4Eg:UTWmYVN5[MVd51
+I04eC>LZVEkiDAWDL`bie01
+R6
+R0
+w1575896777
+8../../../../course_design.srcs/sources_1/new/seg7.v
+F../../../../course_design.srcs/sources_1/new/seg7.v
+L0 1
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
+vseg7x16
+R17
+!i10b 1
+!s100 ?XSQZeEaPK^3^859d=3Sm2
+IgklJ;1G3Di=5BAJWkJ2Yz1
+R6
+R0
+w1560420466
+8../../../../course_design.srcs/sources_1/new/seg7x16.v
+F../../../../course_design.srcs/sources_1/new/seg7x16.v
+L0 21
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 0
+R12
+R22
+R3
